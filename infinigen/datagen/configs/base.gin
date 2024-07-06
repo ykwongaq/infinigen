@@ -11,4 +11,5 @@ sample_scene_spec.config_distribution = [
     ("coast", 4),
     ("arctic", 1),
     ("snowy_mountain", 1),
+    ("under_water", 1),
 ]
