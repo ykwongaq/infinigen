@@ -1,0 +1,4 @@
+
+OpaqueSphericalMesher.pixels_per_cube = 4
+TransparentSphericalMesher.pixels_per_cube = 2
+target_face_size.global_multiplier = 4

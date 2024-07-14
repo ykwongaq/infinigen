@@ -1,0 +1,4 @@
+camera.camera_pose_proposal.altitude = ("uniform", 1, 5)
+camera.camera_pose_proposal.yaw = ("uniform", -30, 30)
+camera.camera_pose_proposal.roll = ("uniform", -30, 30)
+camera.camera_pose_proposal.pitch = ("uniform", -30, 30)
