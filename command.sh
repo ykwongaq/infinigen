@@ -1,0 +1,1 @@
+python -m infinigen.datagen.manage_jobs --output_folder /home/davidwong/Data/infinigen/coral_reef/ --num_scenes 1 --configs coral_reef.gin photogrammetry.gin --pipeline_configs local_16GB.gin monocular_video.gin blender_gt.gin --overwrite

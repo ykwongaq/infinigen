@@ -4,7 +4,7 @@ compose_nature.kelp_chance = 0.1
 compose_nature.urchin_chance = 0.1
 
 compose_nature.corals_chance = 0.8
-compose_nature.seaweed_chance = 0.2
+compose_nature.seaweed_chance = 0.0
 compose_nature.seashell_chance = 0.7
 compose_nature.jellyfish_chance = 0.0
 
